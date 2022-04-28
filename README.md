@@ -4,7 +4,7 @@ Olá! me chamo Thiago, este arquivo Readme é uma apresentação do meu primeiro
 
 # Algumas Tecnologias
 
-![Linguagem HTML](imgs/html-5.png) | ![CSS](imgs/css-3.png) | ![GitHub](imgs/github.png)
+<img src="imgs/html-5.png/" alt="Linguagem HTML" style="zoom:20%;" />  <img src="imgs/css-3.png" alt="CSS" style="zoom:20%;" />  <img src="imgs/github.png" alt="GitHub" style="zoom:20%;" />
 
 # Sugestões
 
